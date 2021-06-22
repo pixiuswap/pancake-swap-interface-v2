@@ -3222,7 +3222,7 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@pancakeswap-libs/sdk-v2@file:../pancakeswap-sdk-v2":
+"@pancakeswap-libs/sdk-v2@pixiuswap/pancakeswap-sdk-v2":
   version "2.2.0"
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
